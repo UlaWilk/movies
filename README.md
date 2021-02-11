@@ -1,5 +1,5 @@
 # Live demo:
-[LiveDemo](https://ulawilk.github.io/omdb-api/)
+[LiveDemo](https://ulawilk.github.io/movies/)
 
 ## Task Description
 Using​ ​http://www.omdbapi.com/​ API create an app that does search for all titles matching user input and displays UI based on output from API.
